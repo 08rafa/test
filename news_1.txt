@@ -1,1 +1,0 @@
-Novo sistema de login adicionado ao aplicativo
